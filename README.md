@@ -17,7 +17,7 @@ The Classic Blue Bird Chrome Extension is a simple and lightweight extension tha
 </ol>
 
 ## Screenshots
-<img src='' alt='screenshot image'>
+<img src='screenshot image.jpg' alt='screenshot image'>
 
 ## Disclaimer
 This extension is purely for entertainment purposes and not endorsed by Twitter or its parent company. Use it at your own risk. The extension does not collect any user data and adheres to the Chrome Web Store policies.
